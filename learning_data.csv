@@ -1,0 +1,121 @@
+student_id,student_name,course,enrollment_date,lessons_completed,total_lessons,progress_score,assessment_score,assessment_attempts
+S001,Student 1,Machine Learning,2026-09-28,7,20,35.0,53,3
+S002,Student 2,Web Development,2026-03-29,3,30,10.0,74,4
+S003,Student 3,Web Development,2026-05-30,1,30,3.33,73,2
+S004,Student 4,Machine Learning,2026-10-04,9,10,90.0,71,2
+S005,Student 5,SQL,2026-08-24,26,26,100.0,54,4
+S006,Student 6,Machine Learning,2026-09-28,18,24,75.0,74,4
+S007,Student 7,Machine Learning,2026-05-11,2,14,14.29,62,2
+S008,Student 8,Machine Learning,2026-03-30,17,23,73.91,98,2
+S009,Student 9,Python,2026-02-22,3,11,27.27,81,4
+S010,Student 10,SQL,2026-09-21,2,24,8.33,53,2
+S011,Student 11,Python,2026-02-19,3,17,17.65,73,2
+S012,Student 12,Machine Learning,2026-07-10,25,27,92.59,40,4
+S013,Student 13,Data Analytics,2026-07-21,13,13,100.0,56,2
+S014,Student 14,Machine Learning,2026-07-09,15,17,88.24,87,1
+S015,Student 15,Data Analytics,2026-02-22,8,22,36.36,57,1
+S016,Student 16,Python,2026-05-09,7,21,33.33,62,4
+S017,Student 17,Web Development,2026-03-22,2,17,11.76,77,2
+S018,Student 18,Data Analytics,2026-02-10,8,16,50.0,89,4
+S019,Student 19,Machine Learning,2026-02-02,22,25,88.0,53,3
+S020,Student 20,Machine Learning,2026-08-02,0,12,0.0,52,3
+S021,Student 21,SQL,2026-05-11,4,10,40.0,92,3
+S022,Student 22,Web Development,2026-07-26,9,24,37.5,75,4
+S023,Student 23,SQL,2026-06-28,16,16,100.0,71,2
+S024,Student 24,SQL,2026-08-19,14,22,63.64,40,3
+S025,Student 25,SQL,2026-02-05,6,22,27.27,57,2
+S026,Student 26,Data Analytics,2026-02-14,5,30,16.67,62,4
+S027,Student 27,Machine Learning,2026-04-18,19,21,90.48,71,2
+S028,Student 28,Machine Learning,2026-08-19,0,10,0.0,84,1
+S029,Student 29,Web Development,2026-05-01,12,29,41.38,30,1
+S030,Student 30,Python,2026-08-22,14,21,66.67,75,3
+S031,Student 31,Python,2026-06-29,16,26,61.54,57,3
+S032,Student 32,Data Analytics,2026-04-23,0,14,0.0,57,4
+S033,Student 33,Python,2026-07-06,1,26,3.85,60,1
+S034,Student 34,Python,2026-05-06,4,11,36.36,70,4
+S035,Student 35,Data Analytics,2026-06-09,15,15,100.0,58,4
+S036,Student 36,Web Development,2026-09-12,7,15,46.67,72,1
+S037,Student 37,Machine Learning,2026-04-08,5,15,33.33,56,1
+S038,Student 38,Python,2026-05-04,15,15,100.0,71,1
+S039,Student 39,Web Development,2026-05-28,2,13,15.38,83,4
+S040,Student 40,Machine Learning,2026-05-08,7,16,43.75,79,1
+S041,Student 41,Web Development,2026-05-31,2,19,10.53,60,4
+S042,Student 42,Python,2026-03-01,1,26,3.85,62,1
+S043,Student 43,Machine Learning,2026-02-06,8,18,44.44,89,3
+S044,Student 44,Machine Learning,2026-06-01,7,10,70.0,56,4
+S045,Student 45,Web Development,2026-04-23,3,17,17.65,73,3
+S046,Student 46,Python,2026-04-09,13,27,48.15,82,2
+S047,Student 47,Data Analytics,2026-06-12,8,25,32.0,50,4
+S048,Student 48,Web Development,2026-05-08,10,10,100.0,69,3
+S049,Student 49,SQL,2026-02-20,1,17,5.88,89,3
+S050,Student 50,Python,2026-05-27,2,13,15.38,49,4
+S051,Student 51,Python,2026-01-17,13,21,61.9,66,1
+S052,Student 52,SQL,2026-10-07,13,26,50.0,80,1
+S053,Student 53,Web Development,2026-07-07,3,10,30.0,57,3
+S054,Student 54,Python,2026-09-13,1,12,8.33,47,1
+S055,Student 55,Data Analytics,2026-08-11,7,12,58.33,52,3
+S056,Student 56,Web Development,2026-09-30,0,17,0.0,90,1
+S057,Student 57,Web Development,2026-09-03,6,25,24.0,83,3
+S058,Student 58,Data Analytics,2026-01-13,3,16,18.75,60,1
+S059,Student 59,Machine Learning,2026-09-21,15,23,65.22,71,4
+S060,Student 60,Web Development,2026-06-02,19,26,73.08,63,2
+S061,Student 61,Web Development,2026-04-11,7,10,70.0,59,1
+S062,Student 62,Machine Learning,2026-09-19,19,22,86.36,80,2
+S063,Student 63,Web Development,2026-05-24,17,22,77.27,39,1
+S064,Student 64,Web Development,2026-04-02,9,14,64.29,72,1
+S065,Student 65,Python,2026-05-09,1,10,10.0,65,1
+S066,Student 66,SQL,2026-09-29,4,16,25.0,66,2
+S067,Student 67,SQL,2026-09-04,11,12,91.67,52,2
+S068,Student 68,Python,2026-10-12,4,23,17.39,73,3
+S069,Student 69,Python,2026-04-04,19,23,82.61,80,4
+S070,Student 70,Python,2026-09-11,6,14,42.86,78,2
+S071,Student 71,Data Analytics,2026-09-03,3,14,21.43,68,2
+S072,Student 72,Web Development,2026-04-06,7,10,70.0,63,1
+S073,Student 73,SQL,2026-01-04,23,25,92.0,75,4
+S074,Student 74,Machine Learning,2026-06-27,11,12,91.67,83,1
+S075,Student 75,Python,2026-06-28,4,20,20.0,87,4
+S076,Student 76,Data Analytics,2026-02-12,12,21,57.14,76,4
+S077,Student 77,Data Analytics,2026-09-10,17,28,60.71,62,4
+S078,Student 78,SQL,2026-03-31,2,11,18.18,73,1
+S079,Student 79,Machine Learning,2026-04-24,10,22,45.45,75,1
+S080,Student 80,SQL,2026-09-06,9,13,69.23,78,1
+S081,Student 81,Python,2026-07-11,0,12,0.0,60,1
+S082,Student 82,SQL,2026-09-25,22,26,84.62,75,1
+S083,Student 83,Python,2026-10-13,16,26,61.54,89,2
+S084,Student 84,SQL,2026-07-06,16,28,57.14,70,4
+S085,Student 85,Machine Learning,2026-08-21,11,28,39.29,75,3
+S086,Student 86,Machine Learning,2026-05-24,4,30,13.33,68,3
+S087,Student 87,Machine Learning,2026-01-25,26,29,89.66,64,1
+S088,Student 88,Data Analytics,2026-07-05,13,16,81.25,73,3
+S089,Student 89,Data Analytics,2026-05-13,6,12,50.0,97,3
+S090,Student 90,Machine Learning,2026-01-09,11,19,57.89,76,1
+S091,Student 91,SQL,2026-08-18,13,16,81.25,63,2
+S092,Student 92,Web Development,2026-05-02,4,11,36.36,73,1
+S093,Student 93,SQL,2026-05-16,12,25,48.0,87,3
+S094,Student 94,Python,2026-05-12,5,13,38.46,62,4
+S095,Student 95,Web Development,2026-07-01,9,16,56.25,65,4
+S096,Student 96,Data Analytics,2026-05-28,8,17,47.06,69,3
+S097,Student 97,Python,2026-07-09,24,26,92.31,64,2
+S098,Student 98,Data Analytics,2026-02-13,12,22,54.55,76,1
+S099,Student 99,SQL,2026-03-21,10,30,33.33,67,3
+S100,Student 100,Machine Learning,2026-02-16,16,18,88.89,74,2
+S101,Student 101,Python,2026-02-23,6,12,50.0,100,4
+S102,Student 102,Data Analytics,2026-06-13,17,17,100.0,57,4
+S103,Student 103,Machine Learning,2026-02-10,10,13,76.92,75,1
+S104,Student 104,SQL,2026-07-31,15,22,68.18,98,1
+S105,Student 105,SQL,2026-02-15,12,12,100.0,68,1
+S106,Student 106,Python,2026-01-10,26,27,96.3,79,1
+S107,Student 107,SQL,2026-04-29,5,10,50.0,74,3
+S108,Student 108,Python,2026-10-10,12,26,46.15,53,1
+S109,Student 109,Data Analytics,2026-04-15,0,12,0.0,75,1
+S110,Student 110,Web Development,2026-01-23,4,14,28.57,98,1
+S111,Student 111,Data Analytics,2026-03-24,20,26,76.92,53,3
+S112,Student 112,SQL,2026-07-24,13,13,100.0,67,1
+S113,Student 113,Python,2026-10-15,11,11,100.0,17,3
+S114,Student 114,Web Development,2026-09-25,5,10,50.0,65,4
+S115,Student 115,SQL,2026-08-10,15,26,57.69,30,1
+S116,Student 116,SQL,2026-03-07,18,20,90.0,60,3
+S117,Student 117,Machine Learning,2026-08-14,1,15,6.67,44,3
+S118,Student 118,Web Development,2026-09-06,0,15,0.0,91,4
+S119,Student 119,Machine Learning,2026-01-30,18,19,94.74,84,2
+S120,Student 120,Python,2026-09-30,23,29,79.31,79,1
